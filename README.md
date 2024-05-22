@@ -13,5 +13,3 @@ Click the "Refresh" button to generate a random lottery number.
 The app will display whether the generated number matches the winning number (4).
 
 
-Contact:
-For any inquiries, please contact Savan6.
